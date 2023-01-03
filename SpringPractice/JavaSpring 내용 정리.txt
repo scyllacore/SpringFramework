@@ -1,0 +1,17 @@
+Chap1
+-JDK 17.0.2 설치 및 환경 변수 설정 : https://minstar0410.tistory.com/3
+-MAVEN 설치 : https://steven-life-1991.tistory.com/90 or P24 
+- 넷빈 폰트 설정법 : https://stackoverflow.com/questions/69101857/netbeans-12-utf-8-chinese-output-with-maven-projects 
+- 넷빈 테마 설정법 : https://draculatheme.com/netbeans (폰트와 코딩창만 설정. 배경은 appearance의 look and feel에서 설정
+- 넷빈 Unpacking index 설정 : https://www.youtube.com/watch?v=eJW8VAqCnYI (maven 처음 사용시 되어있는 설정값 수정 방법)
+
+Chap2
+- 저자 github 사이트 : https://github.com/madvirus/spring5fs
+- 메이븐 의존 설정 : P32 or https://maven.apache.org/plugins/maven-compiler-plugin/usage.html
+- 스프링 프레임워크 공식 사이트 : https://spring.io/projects/spring-framework
+- pom 설정 방법 : https://oingdaddy.tistory.com/39
+
+Chap3
+- DAO : https://velog.io/@ohzzi/Entity-DAO-DTO%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C
+- map,hashmap 차이 : https://doctorson0309.tistory.com/810
+- 스프링 컨테이너와 빈 : https://catsbi.oopy.io/0f28d626-febb-421d-91c8-5d44c6df7d1f
